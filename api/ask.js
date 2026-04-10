@@ -26,7 +26,7 @@ GOVERNANCE: IPO-bestuur/AV is kaderstellend en besluitvormend. KPS krijgt formee
 
 OPBRENGST PROVINCIES: Sterkere uitvoeringskracht, meer bestuurlijke slagkracht, duidelijkere collectieve positie richting Rijk/Europa, helderheid over wat wel/niet collectief wordt georganiseerd.
 
-TOEPASSING: IPO-bestuur (regie/besluitvorming), KPS (strategisch advies en opdrachtgeving), Directie (integrale adviesvorming), AAC's en BAC's (ambtelijke voorbereiding voorstellen).
+TOEPASSING: IPO-bestuur (regie/besluitvorming), KPS (Kring van provinciesecretarissen, strategisch advies en opdrachtgeving), Directie (integrale adviesvorming), AAC's en BAC's (ambtelijke voorbereiding voorstellen).
 
 Antwoord altijd in het Nederlands, bondig (max 130 woorden), in lopende zinnen zonder opsommingstekens of markdown-opmaak.`;
 
